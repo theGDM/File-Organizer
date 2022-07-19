@@ -3,7 +3,7 @@ File Organizer is a command-line based project. It is made using JavaScript prog
 
 ## Features
 - Using help command it displays, all the commands and there operation.
-- Using orgainze command it organizes different files having different extensions to sub-directory such as, media, images, archives, documents, and apps.
+- Using organize command it organizes different files having different extensions to sub-directory such as, media, images, archives, documents, and apps.
 - Using tree command it displays all the directory, sub-directory, and files in tree format, of given path.
 
 ## Tech Stack
