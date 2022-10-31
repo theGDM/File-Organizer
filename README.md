@@ -1,5 +1,5 @@
 # File Organizer
-File Organizer is a command-line based project. It is made using JavaScript programming language.
+File Organizer is a <ins>command-line</ins> based project. It is made using JavaScript programming language.
 
 ## Features
 - Using help command it displays, all the commands and there operation.
@@ -8,11 +8,11 @@ File Organizer is a command-line based project. It is made using JavaScript prog
 
 ## Tech Stack
 
-**Client-side Languages:** JavaScript, Node.js
+**`Client-side:`** JavaScript, Node.js
 
-**Cloud Deployment Plateforms:** GitHub
+**`Cloud Deployment Plateforms:`** GitHub
 
-**Operating System:** Windows
+**`Operating System:`** Windows
 
 ## Commands
 - ### Help Command
